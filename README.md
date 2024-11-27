@@ -51,7 +51,7 @@ Robustez da segurança implementada.
 
 O projeto deve ser submetido via e-learning até 19 de janeiro de 2025, às 23h59.
 
-# 10. Apresentação
+# 9. Apresentação
 
 Todos os projetos entregues serão apresentados em sala. Para isso, cada grupo deverá realizar uma apresentação do projeto desenvolvido para a turma. A apresentação serve para demonstrar que o código entregue foi, de fato, elaborado pelo grupo e que houve uma distribuição equilibrada do trabalho entre os membros.
 
